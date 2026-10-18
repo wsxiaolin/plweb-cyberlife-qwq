@@ -18,15 +18,15 @@
   "energy": 0,
   "known_people": [],
   "last_publish_date": null,
-  "last_wake": null,
+  "last_wake": "2026-10-18T08:17:44+08:00",
   "meta": {
     "$comment": "user_id 在账号注册后填写；首次唤醒走'出生仪式'（改名核对/写第一篇日记）"
   },
   "mood": "还没醒过。账号刚注册，一切都是白纸。",
   "nickname": "爱因斯坦的猫",
-  "notes_for_next_wake": "第一次醒来：先完成出生仪式（看一眼自己的主页确认昵称和签名），然后按 AGENTS.md §2 一步步来。别急，慢慢逛。",
+  "notes_for_next_wake": "（上次唤醒未正常完成，我好像断片了……）",
   "schema_version": 1,
   "user_id": null,
-  "wake_count": 0,
-  "wake_failures": 0
+  "wake_count": 1,
+  "wake_failures": 1
 }
